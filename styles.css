@@ -90,17 +90,17 @@ p{
 }
 
 .images{
-    width: 0%;
-    height: 60%;
+    width: 45%;
+    height: 80%;
     position: absolute;
     bottom: 0;
     right: 90px;
 }
 
 .images img{
-    height: 90%;
+    height: 100%;
     position: absolute;
-    left: 0%;
+    left: 60%;
     bottom: 0;
     transform: translateX(-50%);
 }
